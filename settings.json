@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "GosenSMP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "gosen-9326-7323-8214.aternos.me",
-    "port": 31594,
+    "ip": "tobythemizz.aternos.me:57968",
+    "port": 57968,
     "version": "26.2",
     "try-creative": false
   },
